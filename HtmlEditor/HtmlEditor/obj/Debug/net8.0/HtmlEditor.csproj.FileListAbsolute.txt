@@ -1,0 +1,15 @@
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\bin\Debug\net8.0\HtmlEditor.exe
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\bin\Debug\net8.0\HtmlEditor.deps.json
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\bin\Debug\net8.0\HtmlEditor.runtimeconfig.json
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\bin\Debug\net8.0\HtmlEditor.dll
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\bin\Debug\net8.0\HtmlEditor.pdb
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\obj\Debug\net8.0\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\obj\Debug\net8.0\HtmlEditor.AssemblyInfoInputs.cache
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\obj\Debug\net8.0\HtmlEditor.AssemblyInfo.cs
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\obj\Debug\net8.0\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\obj\Debug\net8.0\HtmlEditor.sourcelink.json
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\obj\Debug\net8.0\HtmlEditor.dll
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\obj\Debug\net8.0\refint\HtmlEditor.dll
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\obj\Debug\net8.0\HtmlEditor.pdb
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\obj\Debug\net8.0\HtmlEditor.genruntimeconfig.cache
+C:\Repositorios\csharp-projects\HtmlEditor\HtmlEditor\obj\Debug\net8.0\ref\HtmlEditor.dll

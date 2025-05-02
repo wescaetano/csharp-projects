@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorios\\csharp-projects\\HtmlEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A06E145-518C-4FB4-A302-D92E682447FC}|HtmlEditor\\HtmlEditor.csproj|c:\\repositorios\\csharp-projects\\htmleditor\\htmleditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A06E145-518C-4FB4-A302-D92E682447FC}|HtmlEditor\\HtmlEditor.csproj|solutionrelative:htmleditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A06E145-518C-4FB4-A302-D92E682447FC}|HtmlEditor\\HtmlEditor.csproj|c:\\repositorios\\csharp-projects\\htmleditor\\htmleditor\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A06E145-518C-4FB4-A302-D92E682447FC}|HtmlEditor\\HtmlEditor.csproj|solutionrelative:htmleditor\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A06E145-518C-4FB4-A302-D92E682447FC}|HtmlEditor\\HtmlEditor.csproj|c:\\repositorios\\csharp-projects\\htmleditor\\htmleditor\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A06E145-518C-4FB4-A302-D92E682447FC}|HtmlEditor\\HtmlEditor.csproj|solutionrelative:htmleditor\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A06E145-518C-4FB4-A302-D92E682447FC}|HtmlEditor\\HtmlEditor.csproj|c:\\repositorios\\csharp-projects\\htmleditor\\htmleditor\\viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A06E145-518C-4FB4-A302-D92E682447FC}|HtmlEditor\\HtmlEditor.csproj|solutionrelative:htmleditor\\viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Viewer.cs",
+              "DocumentMoniker": "C:\\Repositorios\\csharp-projects\\HtmlEditor\\HtmlEditor\\Viewer.cs",
+              "RelativeDocumentMoniker": "HtmlEditor\\Viewer.cs",
+              "ToolTip": "C:\\Repositorios\\csharp-projects\\HtmlEditor\\HtmlEditor\\Viewer.cs",
+              "RelativeToolTip": "HtmlEditor\\Viewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:51:59.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editor.cs",
+              "DocumentMoniker": "C:\\Repositorios\\csharp-projects\\HtmlEditor\\HtmlEditor\\Editor.cs",
+              "RelativeDocumentMoniker": "HtmlEditor\\Editor.cs",
+              "ToolTip": "C:\\Repositorios\\csharp-projects\\HtmlEditor\\HtmlEditor\\Editor.cs",
+              "RelativeToolTip": "HtmlEditor\\Editor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:38:01.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Repositorios\\csharp-projects\\HtmlEditor\\HtmlEditor\\Menu.cs",
+              "RelativeDocumentMoniker": "HtmlEditor\\Menu.cs",
+              "ToolTip": "C:\\Repositorios\\csharp-projects\\HtmlEditor\\HtmlEditor\\Menu.cs",
+              "RelativeToolTip": "HtmlEditor\\Menu.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:30:27.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorios\\csharp-projects\\HtmlEditor\\HtmlEditor\\Program.cs",
+              "RelativeDocumentMoniker": "HtmlEditor\\Program.cs",
+              "ToolTip": "C:\\Repositorios\\csharp-projects\\HtmlEditor\\HtmlEditor\\Program.cs",
+              "RelativeToolTip": "HtmlEditor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:19:05.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
