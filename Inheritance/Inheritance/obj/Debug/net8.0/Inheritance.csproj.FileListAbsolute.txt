@@ -1,0 +1,15 @@
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.exe
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.dll
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.dll
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+C:\Repositorios\csharp-projects\Inheritance\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll
