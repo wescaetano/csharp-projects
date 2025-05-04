@@ -1,0 +1,74 @@
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# VS Code
+.vscode/
+
+# Visual Studio working directory
+.vs/
+
+# Rider
+.idea/
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.temp
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET
+project.lock.json
+project.fragment.lock.json
+*.dbmdl
+*.jfm
+
+# Entity Framework
+*.ide.db
+
+# Local database files
+*.mdf
+*.ldf
+
+# Azure
+*.azurePubxml
+*.azurePubxml.user
+PublishProfiles/
+
+# Others
+_ReSharper*/
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+
+# OS generated files
+.DS_Store
+*.swp
